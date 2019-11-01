@@ -7,3 +7,4 @@ le huu hoang
 Phan Van Dong
 Le Quoc Khanh 
 Nguyen Cong Huu
+Nguyen Trong Tri
