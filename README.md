@@ -1,13 +1,9 @@
 # C1019I1
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-Le Quoc Khanh 
-
-=======
-Hoàng Anh Tân
+Hoï¿½ng Anh Tï¿½n
 Le Quoc Khanh
 Vo The Van
 Nguyen do nguyen
 le huu hoang
 Phan Van Dong
+Le Quoc Khanh 
+Nguyen Cong Huu
